@@ -1,2 +1,2 @@
 # Computer-networks
-Yaroslav Andreevich's tasks
+Yaroslav Alekseevich's tasks
